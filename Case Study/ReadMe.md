@@ -1,1 +1,0 @@
-![microwave oven](https://user-images.githubusercontent.com/98822676/154485340-00325a5a-9a63-4756-a79f-b842cbf5f860.jpg)
