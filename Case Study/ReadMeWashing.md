@@ -1,0 +1,1 @@
+![embedded system-washing machine](https://user-images.githubusercontent.com/98822676/154510488-37ddb547-489f-4622-9e55-ba95235ea243.jpg)
