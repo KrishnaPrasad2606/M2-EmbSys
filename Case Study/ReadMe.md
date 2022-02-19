@@ -16,5 +16,6 @@ HR-2 It automatically switches OFF lights when Sunlight fall on it  ( i.e on LDR
 
 # LOW LEVEL REQUIREMENT
 LR-1 LDR is connected to a voltage divider circuit.
+
 LR-2 The LDR output is given to the micro controller to to take decisions wheather to turn on or turn off LED.
 
