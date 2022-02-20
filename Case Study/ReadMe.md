@@ -10,6 +10,9 @@ Automatic street light system is a simple concept which uses LDR. By this system
 # LIGHT DEPENDENT RESISTOR
 It automatically switches ON lights when the sunlight goes below the visible region of our eyes. It automatically switches OFF lights when Sunlight fall on it ( i.e on LDR ) e.g in morning, by using a sensor called LDR (Light Dependent Resistor) which senses the light just like our eyes.
 
+# LED
+LED, in full light-emitting diode, in electronics, a semiconductor device that emits infrared or visible light when charged with an electric current. Visible LEDs are used in many electronic devices as indicator lamps, in automobiles as rear-window and brake lights, and on billboards and signs as alphanumeric displays or even full-colour posters. Infrared LEDs are employed in autofocus cameras and television remote controls and also as light sources in fibre-optic telecommunication systems.
+
 # HIGH LEVEL REQUIREMENT
 HR-1 It automatically switches ON lights when the sunlight goes below the visible region of our eyes. (e.g in evening after Sunset). 
 
