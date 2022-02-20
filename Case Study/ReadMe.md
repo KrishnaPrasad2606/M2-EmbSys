@@ -13,6 +13,9 @@ It automatically switches ON lights when the sunlight goes below the visible reg
 # LED
 LED, in full light-emitting diode, in electronics, a semiconductor device that emits infrared or visible light when charged with an electric current. Visible LEDs are used in many electronic devices as indicator lamps, in automobiles as rear-window and brake lights, and on billboards and signs as alphanumeric displays or even full-colour posters. Infrared LEDs are employed in autofocus cameras and television remote controls and also as light sources in fibre-optic telecommunication systems.
 
+# VOLTAGE DIVIDER CIRCUIT
+In electronics, a voltage divider (also known as a potential divider) is a passive linear circuit that produces an output voltage (Vout) that is a fraction of its input voltage (Vin). Voltage division is the result of distributing the input voltage among the components of the divider.
+
 # HIGH LEVEL REQUIREMENT
 HR-1 It automatically switches ON lights when the sunlight goes below the visible region of our eyes. (e.g in evening after Sunset). 
 
