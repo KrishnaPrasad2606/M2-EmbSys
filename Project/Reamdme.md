@@ -3,6 +3,7 @@ Today we are adding one more Security Alarm in our list which is based on Ultras
 
 # BLOCK DIAGRAM
 
+![security sys block dia](https://user-images.githubusercontent.com/98822676/155678167-c7e81ee9-7864-4855-b0e5-5abf63979a36.jpg)
 
 
 
