@@ -21,7 +21,7 @@ The value is divided by two since the wave travels forward and backward covering
 
 A buzzer or beeper is an audio signaling device, which may be mechanical, electromechanical, or piezoelectric (piezo for short). Typical uses of buzzers and beepers include alarm devices, timers, and confirmation of user input such as a mouse click or keystroke.
 
-#LIGHT EMITTING DIODE
+# LIGHT EMITTING DIODE
 
 A light-emitting diode (LED) is a semiconductor light source that emits light when current flows through it. Electrons in the semiconductor recombine with electron holes, releasing energy in the form of photons.
 
