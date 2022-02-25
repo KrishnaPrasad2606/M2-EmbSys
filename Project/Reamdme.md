@@ -1,5 +1,5 @@
 # DOOR SECURITY SYSTEM
-Today we are adding one more Security Alarm in our list which is based on Ultrasonic Sensor. This Arduino Controlled Door alarm can be installed near the door to detect the presence of anybody at the door. Whenever somebody comes in the range of Ultrasonic sensor, buzzer starts beeping. You can adjust the sensor detection range according to your door. This system can also serve the purpose of Motion Detector.
+ This is Arduino Controlled Door alarm can be installed near the door to detect the presence of anybody at the door. Whenever somebody comes in the range of Ultrasonic sensor, buzzer starts beeping. You can adjust the sensor detection range according to your door. This system can also serve the purpose of Motion Detector.
 
 # BLOCK DIAGRAM
 
