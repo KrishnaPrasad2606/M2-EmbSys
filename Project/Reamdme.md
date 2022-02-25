@@ -13,7 +13,8 @@ Whenever anyone comes in the path/range of Ultrasonic Sensor, microcontroller de
 Ultrasonic sensor HC-SR04 is used here to detect the presences of any person at the door. The sensor module consists of ultrasonic transmitter, receiver and the control circuit. Ultrasonic Sensor consists of two circular eyes out of which one is used to transmit the ultrasonic wave and the other to receive it.
 We can calculate the distance of the object based on the time taken by ultrasonic wave to return back to the sensor. Since the time and speed of sound is known we can calculate the distance by the following formulae.
 
-Distance = (Time x Speed of Sound) / 2
+Distance = (Time x Speed of Sound) / 2.
+
 The value is divided by two since the wave travels forward and backward covering the same distance. 
 
 
