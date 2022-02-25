@@ -35,9 +35,9 @@ LED, in full light-emitting diode, in electronics, a semiconductor device that e
 
 # HIGH LEVEL REQUIREMENTS
 
-ID     |                           DESCRIPTION                                                 |
+| ID     |                           DESCRIPTION                                                 |
 ------------------------------------------------------------------------------------------------
-HR01   |   Sensor should give outputwhether the person is near the secured area or not.        |
+| HR01   |   Sensor should give output whether the person is near the secured area or not.        |
 ------------------------------------------------------------------------------------------------
 
 
