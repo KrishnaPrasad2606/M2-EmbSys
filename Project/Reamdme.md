@@ -43,4 +43,12 @@ LED, in full light-emitting diode, in electronics, a semiconductor device that e
 
 ------------------------------------------------------------------------------------------------
 
+# LOW LEVEL REQUIREMENTS
+
+| ID     |                           DESCRIPTION                                                 |
+|--------|---------------------------------------------------------------------------------------|
+| LR01   | Sensor output(LED Turn on or Off) will be in boolean form either 0 or 1.              |
+| HR02   |   System will tell user that there is a intrusion                                     |
+                                               |
+------------------------------------------------------------------------------------------------
 
