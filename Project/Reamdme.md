@@ -15,6 +15,9 @@ Whenever anyone comes in the path/range of Ultrasonic Sensor, microcontroller de
 
 # FLOW DIAGRAM
 
+![FLow diagram security_edited](https://user-images.githubusercontent.com/98822676/155834501-b7418283-d4f9-48b8-bbc1-f81aebd479f7.jpg)
+
+
 
 
 
