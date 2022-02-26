@@ -13,6 +13,12 @@
 Whenever anyone comes in the path/range of Ultrasonic Sensor, microcontroller detects the distance of object from the sensor and if the object is in the defined range, it sends the High signal to the buzzer and buzzer starts beeping.
 
 
+# FLOW DIAGRAM
+
+
+![FLow diagram security](https://user-images.githubusercontent.com/98822676/155834419-4143a2ca-69c1-40b3-a5ac-060c98fc4bf0.jpg)
+
+
 # ULTRASONIC SENSOR MODULE:
 
 Ultrasonic sensor HC-SR04 is used here to detect the presences of any person at the door. The sensor module consists of ultrasonic transmitter, receiver and the control circuit. Ultrasonic Sensor consists of two circular eyes out of which one is used to transmit the ultrasonic wave and the other to receive it.
