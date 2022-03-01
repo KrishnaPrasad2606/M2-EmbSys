@@ -1,5 +1,6 @@
-# DOOR SECURITY SYSTEM
- This is Arduino Controlled Door alarm can be installed near the door to detect the presence of anybody at the door. Whenever somebody comes in the range of Ultrasonic sensor, buzzer starts beeping. You can adjust the sensor detection range according to your door. This system can also serve the purpose of Motion Detector.
+#  SECURITY ALERT SYSTEM
+ This is Arduino Controlled Door alarm can be installed near the door to detect the presence of anybody at the door. Whenever somebody comes in the range of Ultrasonic sensor, buzzer starts beeping and LED glows. You can adjust the sensor detection range according to your door. This system can also serve the purpose of Motion Detector.When the intruder is near the door that is with 20cm radius the alarm starts beeping and red colour LED glows.When the intruder is at a distance between  20cm and 50cm radius the yellow colour LED glows. When the intruder is at a distance more than 50cm radius the green colour LED glows.
+
 
 # BLOCK DIAGRAM
 
@@ -46,7 +47,7 @@ LED, in full light-emitting diode, in electronics, a semiconductor device that e
 
 | ID     |                           DESCRIPTION                                                 |
 |--------|---------------------------------------------------------------------------------------|
-| HR01   |   Sensor should give output whether the person is near the secured area or not.       |
+| HR01   |   Sensor should give input whether the person is near the secured area or not.       |
 | HR02   |   Buzzer should beep in case of intrusion.                                            |
 | HR03   |   LED should glow upon intrusion.                                                     |
 
@@ -57,7 +58,11 @@ LED, in full light-emitting diode, in electronics, a semiconductor device that e
 | ID     |                           DESCRIPTION                                                 |
 |--------|---------------------------------------------------------------------------------------|
 | LR01   | Sensor output(LED Turn on or Off) will be in boolean form either 0 or 1.              |
-| HR02   |   System will tell user that there is a intrusion                                     |
+| LR02   |   System will tell user that there is a intrusion                                     |
+| LR03   |   Red LED should glow if disatnce is less than 20cm                                   |
+| LR04   |   Yellow LED should glow if disatnce is between  20cm and 50cm                        |
+| LR05   |   Green LED should glow if disatnce is more than 50cm                                 |    
+
                                                
 ------------------------------------------------------------------------------------------------
 
