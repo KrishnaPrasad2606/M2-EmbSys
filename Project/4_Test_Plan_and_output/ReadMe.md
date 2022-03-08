@@ -10,8 +10,9 @@
 
 # SAMPLE TEST CASES
 
-| Input reading from ultrasonic sensor   |                         Expected   Output                                             |
-|--------------------------------------  |---------------------------------------------------------------------------------------|
-|    14 cm                               |          Red LED should glow with buzzer beeping                                      |
-|    32cm                                |              Yellow LED should glow                                                   |
-|    55cm                                |                Green LED should glow                                                  |      
+| Input reading from ultrasonic sensor   |                         Expected   Output                                   |      ACTUAL OUTPUT             |   PASSED OR NOT   |
+|--------------------------------------  |-----------------------------------------------------------------------------|----------------------------------------------------
+|    14 cm                               |          Red LED should glow with buzzer beeping                            |Red LED glows and buzzer beeps  | Passed           |
+|    32cm                                |              Yellow LED should glow                                         |  Yellow LED  glows             | Passed           |
+|    55cm                                |                Green LED should glow                                        |       Green LED  glows         | Passed           |
+ 
