@@ -80,3 +80,15 @@ many persons are in there actually.
 This type of motion sensing alarm system can be easily employable for security purposes at banks,
 various offices and even for sensitive establishments such as for military. We can easily set up 
 this system for household purposes.
+
+
+# Behavioral diagram
+
+
+![project ss](https://user-images.githubusercontent.com/98822676/156205676-f489eb76-8644-481e-906c-c63922a233a8.jpg)
+
+
+# High level UML use case
+
+![uml](https://user-images.githubusercontent.com/98822676/156802716-81473d87-aa45-45b0-8254-f6638a3b9a51.jpg)
+
