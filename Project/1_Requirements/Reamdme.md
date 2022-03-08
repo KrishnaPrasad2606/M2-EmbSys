@@ -73,7 +73,7 @@ LED, in full light-emitting diode, in electronics, a semiconductor device that e
  Secure and easy to use.
  # Weakness
  
- User is not alterted when he is not a closed proximity.
+ User is not alerted when he is not a closed proximity.
  
  # Opportunity
  
