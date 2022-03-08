@@ -67,6 +67,22 @@ LED, in full light-emitting diode, in electronics, a semiconductor device that e
                                                
 ------------------------------------------------------------------------------------------------
 
+# SWOT ANALYSIS
+ # Strengths
+ 
+ Secure and easy to use.
+ # Weakness
+ 
+ User is not alterted when he is not a closed proximity.
+ 
+ # Opportunity
+ 
+ Can be used anywhere and affordable.
+ 
+ # Threads
+ 
+ Can be hacked.
+ 
 # ADVANTAGES
  The given system is handy and portable, and thus can be easily carried from one place to another.
  The circuitry is not that complicated and thus can be easily troubleshooted.
